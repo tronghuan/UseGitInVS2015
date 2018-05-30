@@ -11,6 +11,8 @@ namespace UseGitInVS2015
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Press any key for exit!");
+            Console.ReadKey();
         }
     }
 }
